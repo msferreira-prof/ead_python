@@ -1,5 +1,4 @@
 # entrada de dados
-pi = 3.14
 print (f"Informe um volume em litros: ")
 vL = float(input())
 # processamento
